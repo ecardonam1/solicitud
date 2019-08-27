@@ -22,16 +22,16 @@ $guardado=$_FILES['userfile']['tmp_name'];
 $CORREO=strtoupper($_POST ['LOGIN']);
 $NOMBRECOMPLETO =strtoupper($_POST ['NOMBRECOMPLETO']);
 $MOTIVO = $_POST ['MOTIVO'];
-$RUTAPDF='C:/PDF/'.$curriculum;
+$RUTAPDF='PDF/'.$curriculum;
 $extension=substr($curriculum,strlen($curriculum)-4);
 if(strcmp($extension,'.pdf')!==1){
-    if(!file_exists('C:\PDF')){
-        mkdir('C:\PDF',0777,true);
-        if(file_exists('C:\PDF')){
-            move_uploaded_file($guardado, 'C:\PDF/'.$curriculum);
+    if(!file_exists('PDF')){
+        mkdir('PDF',0777,true);
+        if(file_exists('PDF')){
+            move_uploaded_file($guardado, 'PDF/'.$curriculum);
         }
     }else{
-        move_uploaded_file($guardado, 'C:\PDF/'.$curriculum);
+        move_uploaded_file($guardado, 'PDF/'.$curriculum);
 
     }
 

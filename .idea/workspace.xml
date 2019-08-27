@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56c65fdb-cfb8-4f05-bc1b-b8a65ed9e3f6" name="Default Changelist" comment="" />
+    <list default="true" id="56c65fdb-cfb8-4f05-bc1b-b8a65ed9e3f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/registra.php" beforeDir="false" afterPath="$PROJECT_DIR$/registra.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,20 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state>
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/registra.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="11" />
+            <state relative-caret-position="358">
+              <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -88,6 +90,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -95,12 +100,12 @@
         <option value="$PROJECT_DIR$/js/comprobarArchivo.js" />
         <option value="$PROJECT_DIR$/../pw/Recolectardatos.php" />
         <option value="$PROJECT_DIR$/clases/conexiondb.php" />
-        <option value="$PROJECT_DIR$/registra.php" />
         <option value="$PROJECT_DIR$/visualizar.php" />
         <option value="$PROJECT_DIR$/solicitud.php" />
         <option value="$PROJECT_DIR$/clases/crudb.php" />
         <option value="$PROJECT_DIR$/compruebausuario.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/registra.php" />
       </list>
     </option>
   </component>
@@ -111,6 +116,7 @@
     <option name="height" value="980" />
   </component>
   <component name="ProjectId" id="1PYSOqLXbGXgV2FenYudlnbbb3L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -137,6 +143,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -183,12 +190,12 @@
       <workItem from="1566822287984" duration="1510000" />
       <workItem from="1566837440424" duration="3363000" />
       <workItem from="1566849751663" duration="5129000" />
-      <workItem from="1566872816572" duration="7433000" />
+      <workItem from="1566872816572" duration="7837000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43848000" />
+    <option name="totallyTimeSpent" value="44252000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -280,13 +287,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/registra.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/clases/crudb.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -317,8 +317,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registra.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
         </state>
       </provider>
     </entry>
